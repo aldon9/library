@@ -19,4 +19,13 @@
         "language": "de",
         "year": 2023
     }
+     {
+        "title": "Persuasion",
+        "author": {
+            "firstName": "Jane",
+            "lastName": "Austen",
+            "alive": false
+        },
+        "language": "en",
+        "year": 1817
 ]
